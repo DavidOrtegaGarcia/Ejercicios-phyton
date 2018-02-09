@@ -1,6 +1,6 @@
 # coding: utf8
 # David Ortega Garcia
-# 09/02/2018
+# 08/02/2018
 
 edad=input "Indique su edad"
 if (edad>=18 and edad<=23)
