@@ -7,7 +7,7 @@ divisor=input ("Escriba el dividsor:")
 cociente= dividendo/divisor
 residuo=dividendo%divisor
 
-if (reso==0):
+if (residuo==0):
     print "La division es exacta. Cociente:",cociente
 else:
-    print "La division no es exacta. Cociente","Residuo:",residuo
+    print "La division no es exacta. Cociente",cociente,"Residuo:",residuo
