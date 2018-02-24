@@ -28,5 +28,7 @@ if (litros!=0):
         print "El precio es", 1.65*litros,"€"
     if (gasolina==5):
         print "El precio es", 1.7*litros,"€"
+    if (gasolina==6):
+        print "El precio es", 1.75*litros,"€"
 else:
     print "El numero de litros no es correcto"
