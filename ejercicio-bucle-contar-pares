@@ -1,10 +1,11 @@
-# coding:utf8
+coding:utf8
 # David Ortega Garcia
 # 02/03/2018
 
 # Inicializaciones
 salir = "N"
-liminte= input ("Escriba el limite?:")
+limite= input ("Escriba el limite?:")
+num=0
 
 while ( salir=="N" ):
     # Hago cosas
