@@ -1,0 +1,17 @@
+# coding:utf8
+# David Ortega Garcia
+# 02/03/2018
+
+# Inicializaciones
+salir = "N"
+liminte= input ("Escriba el limite?:")
+
+while ( salir=="N" ):
+    # Hago cosas
+    print num
+
+    # Incremento
+    num=num+2
+    # Activo indicador de salida si toca
+    if ( numero>limite ): # Condición de salida
+            salir = "S"
