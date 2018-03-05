@@ -4,10 +4,10 @@
 
 # Inicializaciones
 salir = "N"
-liminte= input ("Hasta que limite amo?:")
+limite= input ("Hasta que limite amo?:")
 num=1
 
-if (num<=0):
+if (limite<=0):
     salir="S"
 while ( salir=="N" ):
     # Hago cosas
@@ -16,5 +16,5 @@ while ( salir=="N" ):
     # Incremento
     num=num+1
     # Activo indicador de salida si toca
-    if ( numero>limite ): # Condición de salida
-            salir = "S"
+    if ( num>limite ): # Condición de salida
+        salir = "S"
